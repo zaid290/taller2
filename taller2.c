@@ -4,10 +4,7 @@
 #define ASIGNATURAS 3
 
 int main() {
-    float calificaciones[ESTUDIANTES][ASIGNATURAS];
-    float promedioEstudiante[ESTUDIANTES];
-    float promedioAsignatura[ASIGNATURAS];
-    float maxEstudiante[ESTUDIANTES], minEstudiante[ESTUDIANTES];
+    [ESTUDIANTES], minEstudiante[ESTUDIANTES];
     float maxAsignatura[ASIGNATURAS], minAsignatura[ASIGNATURAS];
     int aprobados[ASIGNATURAS] = {0}, reprobados[ASIGNATURAS] = {0};
 
